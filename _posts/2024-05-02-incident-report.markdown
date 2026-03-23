@@ -6,7 +6,7 @@ img: incident.png
 alt: image-alt
 
 # Reminder: Update this link with your own project link
-project-url: https://drive.google.com/file/d/1qgQmrH4yzHK6-cdeHpFRvSbdzhjV17pP/view?usp=sharing
+project-url: https://docs.google.com/document/d/1HsgNgnXIZvGnj9ggWsEw7LpWxiq8ITL1XfO-qPJz3xk/edit?usp=sharing
 
 description: Coming soon...
 ---
