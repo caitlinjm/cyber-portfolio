@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 5
+title: Linux Commands for File Permissions Management
+img: Linux_commands_permissions_management.jpg
+alt: image-alt
+
+# Add the link to your project below
+project-url: https://docs.google.com/document/d/1AjlXuG1OcEvIgOkAaGRqt-UsdB5-3yu2FS5-lSPwYD4/edit?usp=sharing
+
+# Once you've completed your project, update the 'description' below to this one: 
+description: Documented the practical application of Linux commands to manage file permissions and ensure secure access control within a system environment. 
+---
