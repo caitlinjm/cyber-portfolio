@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2026-04-12
 title: Linux Commands for File Permissions Management
-img: Linux_commands_permissions_management.jpg
+img: Linux_commands.png
 alt: image-alt
 project-date: April 2026
 client: Google Cybersecurity Professional Certificate
