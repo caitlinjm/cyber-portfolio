@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-title: "SQL Project: Advanced Joins"
+title: "SQL Project: Joins"
 img: sql.png
 alt: "SQL Database Queries"
 project-url: https://docs.google.com/document/d/1SPFcEiGZcshVDBzyuflEYU8b47SW3GGfzO4jMCBVE9A/edit?usp=sharing
