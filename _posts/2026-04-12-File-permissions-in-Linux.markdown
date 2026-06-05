@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 7
 date: 2026-04-12
 title: Linux Commands
 img: linux.png
