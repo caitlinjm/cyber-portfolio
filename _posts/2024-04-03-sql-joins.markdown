@@ -1,13 +1,21 @@
 ---
 layout: default
 modal-id: 3
-title: SQL Query
+title: SQL Portfolio Projects
 img: sql.png
-alt: image-alt
-
-# Reminder: Update this link with your own project link
+alt: SQL Database Queries
 project-url: https://docs.google.com/document/d/1SPFcEiGZcshVDBzyuflEYU8b47SW3GGfzO4jMCBVE9A/edit?usp=sharing
-
-# Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
+description: A collection of SQL projects covering advanced data combinations with JOINs and security data filtering using precise query criteria.
 ---
+
+## Project 1: SQL Joins
+In this project, I implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
+
+* **Documentation:** [View SQL Joins Google Doc](https://docs.google.com/document/d/1SPFcEiGZcshVDBzyuflEYU8b47SW3GGfzO4jMCBVE9A/edit?usp=sharing)
+
+---
+
+## Project 2: Apply Filters to SQL Queries
+In this project, I focused on querying and isolating specific security event data. I applied SQL filtering techniques using `WHERE` clauses alongside operators like `AND`, `OR`, and `NOT` to analyze login attempts, track employee access levels, and investigate potential security incidents.
+
+* **Documentation:** [View Apply Filters Google Doc](https://docs.google.com/document/d/1T8sQRv-ELdN6HDBd7IPOfl9Y0JsApLNpHE1WLXKzKPQ/edit?usp=sharing)
