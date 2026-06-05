@@ -4,18 +4,5 @@ modal-id: 3
 title: SQL Portfolio Projects
 img: sql.png
 alt: SQL Database Queries
-project-url: https://docs.google.com/document/d/1SPFcEiGZcshVDBzyuflEYU8b47SW3GGfzO4jMCBVE9A/edit?usp=sharing
-description: A collection of SQL projects covering advanced data combinations with JOINs and security data filtering using precise query criteria.
+description: "• Project 1: SQL Joins — Implemented various JOIN commands in MySQL to combine and query data across multiple tables. (Link: https://docs.google.com/document/d/1SPFcEiGZcshVDBzyuflEYU8b47SW3GGfzO4jMCBVE9A/edit?usp=sharing) \n\n• Project 2: Apply Filters to SQL Queries — Applied SQL filtering techniques using WHERE clauses, AND, OR, and NOT to analyze security event logs. (Link: https://docs.google.com/document/d/1T8sQRv-ELdN6HDBd7IPOfl9Y0JsApLNpHE1WLXKzKPQ/edit?usp=sharing)"
 ---
-
-## Project 1: SQL Joins
-In this project, I implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-
-* **Documentation:** [View SQL Joins Google Doc](https://docs.google.com/document/d/1SPFcEiGZcshVDBzyuflEYU8b47SW3GGfzO4jMCBVE9A/edit?usp=sharing)
-
----
-
-## Project 2: Apply Filters to SQL Queries
-In this project, I focused on querying and isolating specific security event data. I applied SQL filtering techniques using `WHERE` clauses alongside operators like `AND`, `OR`, and `NOT` to analyze login attempts, track employee access levels, and investigate potential security incidents.
-
-* **Documentation:** [View Apply Filters Google Doc](https://docs.google.com/document/d/1T8sQRv-ELdN6HDBd7IPOfl9Y0JsApLNpHE1WLXKzKPQ/edit?usp=sharing)
