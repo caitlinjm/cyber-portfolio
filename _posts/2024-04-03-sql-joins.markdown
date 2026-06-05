@@ -6,6 +6,6 @@ img: sql.png
 alt: SQL Database Queries
 description: >-
   Project 1: SQL Joins — Implemented various JOIN commands in MySQL to combine and query data across multiple tables. (Link: https://docs.google.com/document/d/1SPFcEiGZcshVDBzyuflEYU8b47SW3GGfzO4jMCBVE9A/edit?usp=sharing)
-  
+
   Project 2: Apply Filters to SQL Queries — Applied SQL filtering techniques using WHERE clauses, AND, OR, and NOT to analyze security event logs. (Link: https://docs.google.com/document/d/1T8sQRv-ELdN6HDBd7IPOfl9Y0JsApLNpHE1WLXKzKPQ/edit?usp=sharing)
 ---
